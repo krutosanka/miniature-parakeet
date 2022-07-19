@@ -1,0 +1,24 @@
+{
+  "name": "miniature-parakeet",
+  "env": {
+     "ENCRYPT": {
+      "value": "chacha20-ietf-poly1305"
+    },
+     "PASSWORD": {
+      "value": "8bac03c7-4ec7-4a81-ad8b-796e14e4fbb7"
+    },
+
+     "V2_Path": {
+      "generator": "secret"
+    },
+
+     "AppName": {
+      "value": "no"
+    },
+
+    "QR_Path": {
+       "value": "/qr"
+     }
+  },
+  "stack": "container"
+ }
